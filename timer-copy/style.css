@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 32px;
+  border: 2px solid black;
+}
+
+p {
+  background-color: blanchedalmond;
+}
+
+button {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  margin: 4px;
+}
+
+.start {
+  background-color: rgb(99, 190, 99);
+}
+
+.stop {
+  background-color: yellow;
+}
+
+.reset {
+  background-color: red;
+}

@@ -5,7 +5,7 @@ let hours = 0;
 
 
 function startTimer() {
-    timer = setInterval(updateTimer, 1000);
+    timer = setInterval(updateTimer, 100);
 }
 
 function stopTimer() {
